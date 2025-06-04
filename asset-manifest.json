@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rafainamdar04/counterApp.git/static/css/main.12d4415c.css",
-    "main.js": "/rafainamdar04/counterApp.git/static/js/main.0307fe63.js",
-    "index.html": "/rafainamdar04/counterApp.git/index.html",
-    "main.12d4415c.css.map": "/rafainamdar04/counterApp.git/static/css/main.12d4415c.css.map",
-    "main.0307fe63.js.map": "/rafainamdar04/counterApp.git/static/js/main.0307fe63.js.map"
+    "main.css": "/counterApp/static/css/main.12d4415c.css",
+    "main.js": "/counterApp/static/js/main.0307fe63.js",
+    "index.html": "/counterApp/index.html",
+    "main.12d4415c.css.map": "/counterApp/static/css/main.12d4415c.css.map",
+    "main.0307fe63.js.map": "/counterApp/static/js/main.0307fe63.js.map"
   },
   "entrypoints": [
     "static/css/main.12d4415c.css",
