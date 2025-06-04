@@ -36,7 +36,7 @@ bash
 npm start
 The app will be available at http://localhost:3000/.
 
-5.Build & Deploy
+5. Build & Deploy
 To create a production build and deploy to GitHub Pages, use:
 bash
 npm run build
