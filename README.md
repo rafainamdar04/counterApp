@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 bash
 cd counterApp
 
-3.Install dependencies:
+3. Install dependencies:
 bash
 npm install
 
