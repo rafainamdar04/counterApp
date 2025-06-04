@@ -5,6 +5,7 @@ This is a simple React-based Counter application.
 ## Features
 
 - Increment and decrement counter values
+- Celebratory Animation every 10 counts
 - User-friendly interface
 - Responsive design
 
